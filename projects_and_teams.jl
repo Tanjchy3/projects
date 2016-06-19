@@ -314,7 +314,7 @@ Change read address calculation to support 320x240 resolution.
 Remove indexing graphic mode with direct one.
 			""",
 			URL[
-				URL("??"),
+				URL("https://www.youtube.com/watch?v=huqGv9YF13E"),
 				URL("??")
 			]
 		),
